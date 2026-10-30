@@ -22,8 +22,10 @@ Pele 的颜色和字体由 `--pele-*` CSS 变量控制。配套主题 [Hidontkno
 - 实时预览渲染前 Obsidian 仍用 mermaid.js 检查语法，Pele 支持而 mermaid.js 不支持的写法会报错。
 - Pele 的排版和 mermaid.js 不同，已有的图节点位置、连线会变化。
 - 暗色模式下 Obsidian 会给实时预览里的 mermaid 图加反色滤镜。Hidontknow 主题已对 Pele 的图关掉这个滤镜；用其他主题时，暗色下阅读模式是浅色图、实时预览是反色后的图，两者不一致。
-- 只测试过流程图和时序图，且只在桌面端测试过。
+- 需要 Obsidian 1.14.0 及以上；只在 1.14.4 桌面端测试过流程图和时序图。
 
-## 致谢
+## 许可
 
-- [Pele](https://github.com/obsidianmd/pele)，MIT，© kepano（构建时打包进 `main.js`，保留其许可声明）
+[MIT](LICENSE) © hidontknow。
+
+构建出的 `main.js` 内含 [Pele](https://github.com/obsidianmd/pele)（MIT，© kepano），其完整许可声明保留在文件开头。
