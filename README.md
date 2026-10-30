@@ -2,6 +2,9 @@
 
 一个 Obsidian 插件：用 [Pele](https://github.com/obsidianmd/pele) 代替内置的 mermaid.js 渲染 Mermaid 图，阅读模式和实时预览都生效。
 
+> [!NOTE]
+> **仅用于尝鲜。** Obsidian 1.15 将改用 Pele 渲染 Mermaid 图（以官方发布说明为准）。本插件让你在此之前提前体验；升级到 1.15 后请停用并卸载本插件，改用 Obsidian 内置的渲染。
+
 Pele 的颜色和字体由 `--pele-*` CSS 变量控制。配套主题 [Hidontknow](https://github.com/hidontknow/obsidian-theme-hidontknow) 已经把这些变量接到主题配色上，亮色 / 暗色都适配；用其他主题时是 Pele 的默认配色。
 
 ## 安装
