@@ -1,0 +1,9 @@
+{
+	"id": "pele-mermaid",
+	"name": "Pele Mermaid",
+	"version": "0.0.1",
+	"minAppVersion": "1.10.6",
+	"description": "用 Pele 代替 mermaid.js 渲染 mermaid 代码块（试验）",
+	"author": "chenjinhai",
+	"isDesktopOnly": false
+}

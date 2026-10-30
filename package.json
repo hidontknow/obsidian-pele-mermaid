@@ -1,0 +1,12 @@
+{
+	"name": "obsidian-pele-mermaid",
+	"version": "0.0.1",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "node build.mjs"
+	},
+	"devDependencies": {
+		"pele": "1.12.0"
+	}
+}
